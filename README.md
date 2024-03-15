@@ -1,4 +1,4 @@
-Simon Chladek  hat 30k Trophäen in Brawl gehittet
+Simon Chladek  hat 30k Trophäen in Brawl gehittet und nen kleinen
 
 
 
