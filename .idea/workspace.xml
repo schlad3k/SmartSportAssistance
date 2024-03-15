@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce07963-94a0-4cd2-9a1a-ac68dfdb55c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Spielfeld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3ce07963-94a0-4cd2-9a1a-ac68dfdb55c2" name="Changes" comment="Beacon Lokalisation zum Testen gecodet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,11 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710489218480</updated>
-      <workItem from="1710489219222" duration="1256000" />
+      <workItem from="1710489219222" duration="1597000" />
     </task>
+    <task id="LOCAL-00001" summary="Beacon Lokalisation zum Testen gecodet">
+      <option name="closed" value="true" />
+      <created>1710491018988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710491018988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Beacon Lokalisation zum Testen gecodet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beacon Lokalisation zum Testen gecodet" />
   </component>
 </project>
